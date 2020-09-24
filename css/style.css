@@ -1,0 +1,20 @@
+.color-red {
+  background-color: #c12143;
+}
+
+.navbar-custom {
+  height: 6rem;
+}
+
+.jumbotron {
+  padding: 8rem 2rem;
+}
+
+.color-pink {
+  background-color: #faeef0;
+}
+
+.logo__svg {
+  fill: #fff;
+  height: 3rem;
+}
